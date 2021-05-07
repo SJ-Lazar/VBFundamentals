@@ -2,7 +2,6 @@ Imports System
 
 'Container - Namespaces 
 Module Program
-
     'Sub procedure
     Sub Main(args As String())
 
@@ -12,5 +11,4 @@ Module Program
 
 
     End Sub
-
 End Module
